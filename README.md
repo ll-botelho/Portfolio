@@ -1,1 +1,10 @@
-I am a data professional with over 10 years of experience in strategic marketing, commercial, and business intelligence. I have managed research projects, developed dashboards and reports, and overseen large databases. Alongside my career, I pursued studies in data science, earning a postgraduate degree in Data Science and Artificial Intelligence in 2024.
+## 👋 Hi, I'm Luke
+
+Data Analyst focused on Business Intelligence and Predictive Modeling.
+
+🔧 Tools: Python, R, Power BI, SQL  
+📊 Interests: Forecasting, Data Visualization, Automation  
+
+## 🚀 Featured Projects
+- Sales Forecasting Model (Python)
+- Power BI Executive Dashboard
