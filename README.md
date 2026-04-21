@@ -1,10 +1,10 @@
-## 👋 Hi, I'm Luke
+## 👋 Hi, I'm Lucas
 
 Data Analyst focused on Business Intelligence and Predictive Modeling.
 
-🔧 Tools: Python, R, Power BI, SQL  
-📊 Interests: Forecasting, Data Visualization, Automation  
+> Tools: Python, R, Power BI, SQL  
+> Interests: Forecasting, Data Visualization, Automation  
 
-## 🚀 Featured Projects
+## Featured Projects
 - Sales Forecasting Model (Python)
 - Power BI Executive Dashboard
