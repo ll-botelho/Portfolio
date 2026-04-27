@@ -3,6 +3,7 @@
 Data Analyst focused on Business Intelligence and Predictive Modeling.
 
 > Tools: Python, R, Power BI, SQL, Tableau
+
 > Interests: Forecasting, Data Visualization, Automation  
 
 ## Featured Projects
